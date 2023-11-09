@@ -1,0 +1,84 @@
+body{
+  background-color: rgb(245, 255, 250);
+  overflow: hidden;
+}
+
+.foto-header{
+  height: 200px;
+  width: 200px;
+  border: 3px solid black;
+}
+
+.btn{
+  background-color: lightgray;
+  color: black;
+  border: 2px solid black;
+}
+
+.botonInfo{
+  outline: none;
+  border: 0;
+  background-color: white;
+}
+
+.logo-info{
+  height: 40px;
+  width: 40px;
+  cursor: pointer;
+}
+
+.logo-estudios{
+  height: 40px;
+  width: 40px;
+}
+
+.logo-experiencia{
+  height: 40px;
+  width: 40px;
+}
+
+.logo-habilidades{
+  height: 40px;
+  width: 40px;
+}
+
+.footer{
+  margin-top: 10px;
+  width: 100%;
+  margin-bottom: 0;
+  background-color: gray;
+}
+
+.insta{
+  height: 40px;
+  width: 40px;
+}
+
+.git{
+  height: 40px;
+  width: 40px;
+  cursor: pointer;
+}
+
+.insta:hover{
+  transform: scale(1.1) translate(10px, -10px);
+}
+
+.git:hover{
+  transform: scale(1.1) translate(10px, -10px);
+}
+
+.btn:hover{
+  background: linear-gradient(
+        45deg,
+        hsla(168, 85%, 52%, 0.5),
+        hsla(263, 88%, 45%, 0.5) 100%
+      );
+}
+
+/* Aquí empieza la parte propia del archivo "estudios.html" */
+
+.birrete{
+  height: 80px;
+  width: 80px;
+}
