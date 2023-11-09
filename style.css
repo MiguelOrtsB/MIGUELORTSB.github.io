@@ -82,8 +82,16 @@ body{
   width: 103px;
 }
 
+/* Aquí empieza la parte propia del archivo "experiencia.html" */
 
 .corbata{
+  height: 103px;
+  width: 103px;
+}
+
+/* Aquí empieza la parte propia del archivo "habilidades.html" */
+
+.bombilla{
   height: 103px;
   width: 103px;
 }
